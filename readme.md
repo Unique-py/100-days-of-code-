@@ -1,4 +1,7 @@
 #100 Days of code 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width =10% />
+
 100 Days of Code by Dr. Angela Yu
 Welcome to the 100 Days of Code Challenge by Dr. Angela Yu! This challenge is designed to help you build coding habits, develop your coding skills, and get into the coding flow. By committing to coding for at least an hour every day for 100 days, you can transform yourself into a confident and capable coder.
 I will be heading to this challenge and uploading my learnings and codes here for you 
